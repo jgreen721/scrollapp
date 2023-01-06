@@ -1,6 +1,5 @@
 {
   "name": "client",
-  "homepage":"https://jgreen721.github.io/scrollapp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
